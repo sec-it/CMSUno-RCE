@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  cmsuno:
+    image: cmsuno:v1.6.2
+    user: www-data
+    ports:
+      - '5000:80'
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        UNO_VERSION: 1.6.2
