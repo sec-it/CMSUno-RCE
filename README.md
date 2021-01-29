@@ -4,7 +4,7 @@
 
 Exploit for [CVE-2020-25557][CVE-2020-25557] and [CVE-2020-25538][CVE-2020-25538].
 
-[[EDB-xxx](https://www.exploit-db.com/exploits/xxx)] [[PacketStorm](https://packetstormsecurity.com/files/xxx/xxx.html)] [[WLB-xxx](https://cxsecurity.com/issue/WLB-xxx)]
+[[EDB-49485](https://www.exploit-db.com/exploits/49485)] [[PacketStorm](https://packetstormsecurity.com/files/161162/CMSUno-1.6.2-Remote-Code-Execution.html)] [[WLB-xxx](https://cxsecurity.com/issue/WLB-xxx)]
 
 ## Usage
 
